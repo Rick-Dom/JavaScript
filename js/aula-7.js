@@ -5,3 +5,6 @@ console.log(
 
     document.getElementById("futebol-europeu").querySelectorAll(".times")[0].innerHTML
 )
+
+//testando
+alert(document.getElementById("futebol-europeu").querySelectorAll(".times")[1].innerHTML)

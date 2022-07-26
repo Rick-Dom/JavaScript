@@ -1,5 +1,5 @@
 console.log(
-    //querySelector retorna sempre o primeiro elemento que ele encontrar
+    // querySelector retorna sempre o primeiro elemento que ele encontrar
     // nao retorna um colection como os outros
     document.querySelector("#p2").innerHTML
 )
